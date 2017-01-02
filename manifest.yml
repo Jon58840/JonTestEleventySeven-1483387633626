@@ -1,7 +1,7 @@
 applications:
 - disk_quota: 1024M
-  host: nodejs-object-storage
-  name: nodejs-object-storage
+  host: JonTestEleventySeven
+  name: JonTestEleventySeven
   path: .
   domain: mybluemix.net
   instances: 1
